@@ -1,0 +1,9 @@
+{
+  "browser": "chrome",
+  "implicitlyWait": "10",
+  "explicitlyWait": "30",
+  "url": "https://demoqa.com/",
+  "chromeIncognito": "--incongnito",
+  "edgeIncognito": "-inprivate",
+  "firefoxIncognito": "-private"
+}
